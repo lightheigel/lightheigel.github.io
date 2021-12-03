@@ -1,6 +1,9 @@
 # LIGHT-HEIGEL
+
 > Light-Heigel & Associates, Inc. has grown from an individual practice, started in Palmyra, Pennsylvania in 1959.
+
 ## Regions 
+
 >staffed by residents of the areas in which they serve.
 >Part of our beliefs is simply that, to serve an area,
 >the staff must be as much of a part of the community
