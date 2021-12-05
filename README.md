@@ -5,7 +5,7 @@
 ## Regions 
 
 >staffed by residents of the areas in which they serve.
->Just one of our beliefs is that, to serve an area,
+>Our belief is that, to serve an area,
 >the staff must be as much of a part of the community
 >as the people that live there.
 
