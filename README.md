@@ -1,6 +1,9 @@
 # LIGHT-HEIGEL
 
-Engineering, Civil Engineering, Environmental Engineering,Land Surveying, UCC Building Code Inspections, Municipal Services in Central Pennslyvania
+- Engineering 
+- Land Surveying
+- UCC Building Code Inspections
+- Municipal Services
 
 ## Regions 
 
